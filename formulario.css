@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to top left , #000000 , #2f837c, #2c5679); /*Cor da página */
+    font: normal 20pt arial; /*Letra do site */
+}
+
+#titulo {
+    text-align: center;
+}
+
+.fomulario {
+    font: normal 20pt normal;
+    border-radius: 10px;padding: 15px; /*Formato da borda */
+    padding: 15px; /*Tamanho da borda */
+    width: 500px; /*Largura da borda */
+    margin: auto; /*Local da margem */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); /*Sombra embaixo da margem */
+    color: white;
+}
+
+#botão {
+    text-align: center;
+}
+
+#habilidades {
+    font: normal 18pt arial;
+}
+
+footer {
+    color: rgb(255, 255, 255); /*Cor do meu nome */
+    text-align: center; /*Local do meu nome */
+    font-style: italic; /*Estilo da fonte */
+}
